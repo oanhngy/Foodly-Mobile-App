@@ -1,0 +1,1 @@
+import '@rneui/themed';
